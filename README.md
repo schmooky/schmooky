@@ -4,11 +4,13 @@
 
 ## I'm a Game Developer (JS/TS/React/Phaser/Pixi/Babylon)
 
-- 🇷🇺 I live in Moscow
-- 💵 I work at Ejaw, making casual games for a living
+- I live in Moscow
+- Work at Ejaw, make casual skill-based casino games
+- Bachelor of Maths
+- Make UE4 VR game as a side gig
 
 ### Contact me:
 
-[<img align="left" alt="schm00ky | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[Telegram][telegram]
 
-[twitter]: https://twitter.com/schm00ky
+[telegram]: https://t.me/schm00ky
