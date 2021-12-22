@@ -5,9 +5,9 @@
 ## I'm a Game Developer (JS/TS/React/Phaser/Pixi/Babylon)
 
 - I live in Moscow
-- Work at Ejaw, make casual skill-based casino games
 - Bachelor of Maths
-- Make UE4 VR game as a side gig
+- Develop slots and hyper-casual games for a living
+- Web3 enthusiast
 
 ### Contact me:
 
