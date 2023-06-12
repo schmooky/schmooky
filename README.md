@@ -1,13 +1,12 @@
 ### Hey! My name is Dmitry
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/schm00ky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%schmooky&screen_name=schm00ky)
-
-## I'm a Game Developer (JS/TS/React/Phaser/Pixi/Babylon)
+## I'm a Game Developer (TS/Pixi/React), working as Team Lead at Gambit Games
 
 - I live in Moscow
 - Bachelor of Maths
-- Develop slots and hyper-casual games for a living
-- Web3 enthusiast
+- Develop slots and tabletop games
+- 5+ released slots
+- 3 released skill-based gambling games
 
 ### Contact me:
 
